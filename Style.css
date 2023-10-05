@@ -1,0 +1,78 @@
+*{
+    text-decoration: none;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%,
+ rgba(23,79,147,1) 0%, rgba(30,108,187,1) 18%,
+  rgba(30,109,188,1) 31%, rgba(34,124,209,1) 64%,
+   rgba(26,78,220,1) 71%, rgba(0,212,255,1) 100%);
+}
+.home a:hover{
+    border-bottom: 2px solid black;    
+}
+.home a{
+    margin-left: 50px;
+    font-size: 20px;
+}
+main p{
+    font-size: 20px;
+    color: #86f3fc;
+}
+.BRT a{
+    color: black;
+    display: block;
+}
+h1, h2{
+    color: #35b6fc;
+    background: #86f3fc;
+    border: 3px solid #86f3fc;
+    border-radius: 15px;
+    text-align: center; 
+}
+table a{
+    text-decoration: none;
+    color: blue;
+}
+p table{
+    border: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
+p table td{
+    border: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+footer a{
+    border: 1px dashed white;
+    text-decoration: none;
+    border-radius: 20px;
+    color: tomato;
+    background-color: white;
+    text-align: center;
+}
+main p{
+    border-left: 3px dashed #86f3fc;
+    border-right: 3px dashed #86f3fc;
+}
+th{
+    font-size: 25px;
+    border-left: 3px dashed #86f3fc;
+    border-left: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
+.fghyre a{
+    text-align: center;
+}
+td, th{
+    color: #35b6fc;
+}
+footer p{
+    margin-left: 200px;
+}
